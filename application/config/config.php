@@ -51,8 +51,8 @@ define('URL', URL_PROTOCOL . URL_DOMAIN . URL_SUB_FOLDER);
  * This is the place where you define your database credentials, database type etc.
  */
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'sql105.260mb.net');
-define('DB_NAME', 'n260m_20866930_rtk');
-define('DB_USER', 'n260m_20866930');
-define('DB_PASS', 'tupapito');
+define('DB_HOST', 'rtk-api.000webhostapp.com');
+define('DB_NAME', 'id3419461_rtk');
+define('DB_USER', 'id3419461_rtkcamarin');
+define('DB_PASS', 'tupapitomk24');
 define('DB_CHARSET', 'utf8');
