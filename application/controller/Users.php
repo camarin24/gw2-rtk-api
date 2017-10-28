@@ -22,4 +22,8 @@ class Users extends Controller {
             header($_SERVER["SERVER_PROTOCOL"]." 401 Unautorized", true, 401);
         }
     }
+
+    public function Index(){
+        echo "hola man";
+    }
 }
